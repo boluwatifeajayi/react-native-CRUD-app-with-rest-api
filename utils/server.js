@@ -1,0 +1,1 @@
+export default server = "https://troubled-eel-long-johns.cyclic.app/api"
